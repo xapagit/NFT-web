@@ -1,4 +1,4 @@
-# NFT-web
+# NFT-webv2
 
 Diseño y Estructura de la Página:
 Página de Inicio:
